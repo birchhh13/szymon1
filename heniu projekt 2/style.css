@@ -1,0 +1,23 @@
+
+table, th, td 
+{
+    border:1px solid black;
+          
+}
+th
+{
+    background-color: rgb(59, 185, 185);
+    color: white;
+}
+td
+{
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color: rgb(59, 185, 185);
+}
+.td
+{
+    padding-left: 20px;
+    text-align: left;
+}
